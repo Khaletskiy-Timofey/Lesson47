@@ -51,3 +51,14 @@ void test04()
 
 	print("Test04", numbers, size, actual, actual == expected);
 }
+
+void test05()
+{
+	int numbers[]{ 1 };
+	int size = 1;
+
+	int expected = 0;
+	int actual = calculate_sum(numbers, size);
+
+	print("Test05", numbers, size, actual, actual == expected);
+}
