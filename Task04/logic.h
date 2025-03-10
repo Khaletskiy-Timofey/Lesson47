@@ -1,0 +1,1 @@
+void find_local_numbers(int&, int&, int*, int);
