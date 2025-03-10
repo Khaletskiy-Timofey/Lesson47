@@ -1,0 +1,1 @@
+double find_arithmetic_mean(int&, int&, int*, int);
